@@ -11,7 +11,7 @@ app = Flask(__name__)
 def submit_qasm():
     # read the input qasm string from the user
 
-    session = QbraidSession(api_key="YOUR_API_KEY")
+    session = QbraidSession()
     session.save_config()
 
     if request.method == 'POST':
