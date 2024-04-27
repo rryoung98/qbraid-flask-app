@@ -1,0 +1,8 @@
+amazon-braket-default-simulator==1.22.0
+amazon-braket-schemas==1.21.4
+amazon-braket-sdk==1.78.0
+annotated-types==0.6.0
+Flask==3.0.3
+qbraid==0.6.1
+qbraid-cli==0.8.0
+qbraid-core==0.1.4
