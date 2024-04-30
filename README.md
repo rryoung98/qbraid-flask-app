@@ -33,6 +33,12 @@ See the Local Account Setup section to get your access key.
 qbraid jobs enable braket
 ```
 
+Initialize the app
+
+```
+python app.py
+```
+
 You're all set! Now you can submit qasm files to an SV1 simulator
 
 ## Local account setup
