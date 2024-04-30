@@ -33,10 +33,19 @@ See the Local Account Setup section to get your access key.
 qbraid jobs enable braket
 ```
 
-Initialize the app
+Initialize the app and visit http://127.0.0.1:5000
 
 ```
 python application/app.py
+
+>>> * Serving Flask app 'app'
+>>> * Debug mode: on
+>>> INFO:werkzeug:WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+>>> * Running on http://127.0.0.1:5000
+>>> INFO:werkzeug:Press CTRL+C to quit
+>>> INFO:werkzeug: * Restarting with stat
+>>> * Debugger is active!
+>>> * Debugger PIN: 113-807-586
 ```
 
 You're all set! Now you can submit qasm files to an SV1 simulator
