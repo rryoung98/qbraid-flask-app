@@ -1,5 +1,5 @@
 # qbraid-flask-app
-A general qbraid flask app using the qbraid provider to submit QASM files to a quantum computer or simulator
+An example qbraid flask app using the qbraid provider to submit QASM files to a quantum computer or simulator
 
 To explore more about qBraid and how you can write with qiskit, cirq, pyquil, qasm, pytket, qasm2/3 and convert your circuits and submit to one of our quantum computers please view our [qBraid Lab Demos](https://github.com/qbraid/qbraid-lab-demo)
 
